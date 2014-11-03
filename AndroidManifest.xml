@@ -6,7 +6,7 @@
     <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="21" />
     <application android:label="@string/app_name" android:icon="@drawable/ic_launcher">
         <activity android:name="login"
-                  android:label="@string/app_name">
+                  android:label="@string/login_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
