@@ -1,4 +1,4 @@
-package com.android.testproject;
+package com.android.connexus;
 
 import android.app.Activity;
 import android.os.Bundle;
